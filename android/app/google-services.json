@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199485039625",
+    "project_id": "oauth-ad4ae",
+    "storage_bucket": "oauth-ad4ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199485039625:android:c5a6bcbe4a255e83b904d8",
+        "android_client_info": {
+          "package_name": "com.example.uiproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCNK6o4No7SLnP3TwAp9Y1l3M2TLTkSrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
